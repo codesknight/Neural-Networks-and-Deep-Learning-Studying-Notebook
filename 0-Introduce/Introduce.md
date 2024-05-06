@@ -1,5 +1,19 @@
-神经网络与深度学习》是一本免费的在线书籍，这本书将教你关于:
-* nihao1
-    - nihao
-+ nihao
-1.nihao1
+#### 原文翻译
+《神经网络与深度学习》是一本免费的在线书籍，这本书将教你关于:
+
+* 神经网络，一种美丽的受生物启发的编程范型，它使计算机能够从观测数据中学习。
+* 深度学习，一套强大的神经网络学习技术。
+
+神经网络和深度学习是目前图像识别、语音识别和自然语言处理领域许多问题的最佳解决方案。这本书将教你神经网络和深度学习背后的许多核心概念。
+
+关于书中采用的方法的更多细节[http://neuralnetworksanddeeplearning.com/about.html]，
+或者你可以直接跳到第一章[http://neuralnetworksanddeeplearning.com/chap1.html]开始。
+#### 日积月累
+1. paradigm
+美: [ˈpɛrəˌdaɪm]
+英: [ˈpærəˌdaɪm]
+n.	范例；〈正式〉模型；〈正式〉模范；【语】词形变化表
+网络：	范式；典范；范型
+词形：paradigms
+例句：Moving to MDD (or any other fundamentally different development paradigm) demands large initial investments and is not without risk.
+向MDD（或任何其他根本上不同的开发范型）转移需要大量的初始投资，并且不是没有风险的。
